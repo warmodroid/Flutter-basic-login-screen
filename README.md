@@ -1,10 +1,10 @@
 # first_flutterapp
 
-A new Flutter application.
+How to design simple login screen using flutter. (very beginner level)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This contains the very basic login screen coded in flutter
 
 A few resources to get you started if this is your first Flutter project:
 
